@@ -1,4 +1,4 @@
 krs
 ===
 
-Kowhai Research Solutions
+Kowhai Research Solutions Ltd.
